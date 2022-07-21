@@ -13,7 +13,7 @@ of data to support her findings, and easy to use filter to fine tune the results
 We have developed the web page which has a breif description and a table of data which tells us where and when there was a UFO sighting the duration, the shape and few comments about the sighting. This data was huge so search filters were provided so that we can search the data based on city or state or country or the shape of the sighting or based on a particular date.
 Below is the image showing the webpage containing the whole data without filters.
 
-<img width="484" alt="image" src="https://user-images.githubusercontent.com/104597335/180185336-e0f9334f-c2ff-444a-9dd4-721b9602a656.png">
+<img width="940" alt="image" src="https://user-images.githubusercontent.com/104597335/180185336-e0f9334f-c2ff-444a-9dd4-721b9602a656.png">
 
 
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/104597335/180185612-b15d4af6-f3f7-458b-8002-0cbc8f391e7e.png">
@@ -34,6 +34,7 @@ Again I have included the shape as "disk" so the result set reduced to only a si
 ## Challenge Summary
 Drawback - 
 - The web page is lenghty . We have to scroll so much to view the data. 
+
 Recommendations -
 - Display of the data in pages such that only few records are visible at a time and we can click on Next to view the remaining pages.
 - Providing the search criteria at the top so that all the filters are visible at once.
